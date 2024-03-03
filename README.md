@@ -5,35 +5,35 @@ I'm Arisa, and this is where I share my progress and experiences with SuperAI SS
 
 ## Repository Contents
 
-1. **Image Search**: 19th/423
+1. **Image Search**: rank 19th/423
 
     competition url: https://www.kaggle.com/competitions/image-search
 
     solutions url: https://www.kaggle.com/code/arisapim/401727-image-search-with-query-augmentation
 
 
-2. **ThaiJO RESEARCHER**: 75th/409
+2. **ThaiJO RESEARCHER**: rank 75th/409
 
     competition url: https://www.kaggle.com/competitions/thaijo-researcher
 
     solutions url: https://www.kaggle.com/code/arisapim/thaijo-401727
 
 
-3. **Ultra Wide Band Pose Prediction**: 45th/265
+3. **Ultra Wide Band Pose Prediction**: rank 45th/265
 
     competition url: https://www.kaggle.com/competitions/ultra-wide-band-pose-prediction
 
     solutions url: https://www.kaggle.com/code/arisapim/uwb-401727?scriptVersionId=163215136
 
 
-4. **Farm Connect – Soil Water Content Prediction**: 175th/327
+4. **Farm Connect – Soil Water Content Prediction**: rank 175th/327
 
     competition url: https://www.kaggle.com/competitions/farm-connect-soil-water-content-prediction
 
     solutions url: https://www.kaggle.com/code/arisapim/iot-401727
 
 
-5. **Nithan Chadok Name Entity Recognition**: 163rd/247
+5. **Nithan Chadok Name Entity Recognition**: rank 163rd/247
 
     competition url: https://www.kaggle.com/competitions/nithan-chadok-name-entity-recognition
 
