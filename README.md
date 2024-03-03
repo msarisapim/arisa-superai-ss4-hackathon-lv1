@@ -38,3 +38,5 @@ I'm Arisa, and this is where I share my progress and experiences with SuperAI SS
     competition url: https://www.kaggle.com/competitions/nithan-chadok-name-entity-recognition
 
     solutions url: https://www.kaggle.com/code/arisapim/nlp-401727
+
+6. ****
