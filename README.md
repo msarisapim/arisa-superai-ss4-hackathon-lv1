@@ -1,7 +1,7 @@
 # SuperAI SS4 Hackathon Records (Level 1)
 
 ## Welcome
-I'm Arisa, and this is where I share my progress and experiences with SuperAI SS4 (Level 1) Kaggle competitions. As a newcomer to hackathons and deep learning, my journey is about learning and improving, step by step. Thanks for your patience and support!
+    Hello, I'm Arisa, here is where I share my progress and experiences with SuperAI SS4 (Level 1) Kaggle competitions. As a newcomer to hackathons and deep learning, my journey is about learning and improving, step by step. Thanks for your patience and support!
 
 ## Repository Contents
 
