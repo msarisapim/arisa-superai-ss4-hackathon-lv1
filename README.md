@@ -50,4 +50,4 @@ Hello, I'm Arisa, here is where I share my progress and experiences with SuperAI
    
    competition url: https://www.kaggle.com/competitions/nithan-chadok-hybrid-ocr-ner
    
-   solutions url: 
+   solutions url: https://www.kaggle.com/code/arisapim/hybrid-401727
