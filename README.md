@@ -41,5 +41,7 @@ Hello, I'm Arisa, here is where I share my progress and experiences with SuperAI
     solutions url: https://www.kaggle.com/code/arisapim/nlp-401727
 
 6. **Nithan Chadok Hybrid OCR-NER**: rank 3/175
+   
    competition url: https://www.kaggle.com/competitions/nithan-chadok-hybrid-ocr-ner
+   
    solutions url: 
