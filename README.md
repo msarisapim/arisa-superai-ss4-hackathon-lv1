@@ -4,7 +4,11 @@
 
 Hello, I'm Arisa, here is where I share my progress and experiences with SuperAI SS4 (Level 1) Kaggle competitions. As a newcomer to hackathons and deep learning, my journey is about learning and improving, step by step. Thanks for your patience and support!
 
-![Arisa's SuperAI SS4 Hackathon Records (Level 1) Journey](https://i.ibb.co/LRsgrXF/rank.png)
+
+<p align="center">
+  <img src="[https://link_to_your_image.jpg](https://i.ibb.co/LRsgrXF/rank.png)" alt="Arisa's SuperAI SS4 Hackathon Journey" width="200"/>
+</p>
+
 
 ## Repository Contents
 
