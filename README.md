@@ -6,7 +6,7 @@ Hello, I'm Arisa, here is where I share my progress and experiences with SuperAI
 
 
 <p align="center">
-  <img src="(https://i.ibb.co/LRsgrXF/rank.png)" alt="Arisa's SuperAI SS4 Hackathon Journey" width="200"/>
+  <img src="https://i.ibb.co/LRsgrXF/rank.png" alt="Arisa's SuperAI SS4 Hackathon Journey" width="200"/>
 </p>
 
 
